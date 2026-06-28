@@ -1,0 +1,31 @@
+.task-list
+{
+    background-color: #E0FFFF;
+    border-radius: 4px;
+    padding: 5px;
+    max-width: 100%;
+}
+.task
+{
+    background-color: #E0FFFF;
+    box-shadow: 0px 0px 2px 2px #B0E0E6;
+    padding: 3px 10px;
+    font-size: 20px;
+    margin: 12px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.task-buttons
+{
+    display: flex;
+    align-items: center;
+}
+.task-buttons button
+{
+    border: 0;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 25px;
+    font-weight: 500;
+}
