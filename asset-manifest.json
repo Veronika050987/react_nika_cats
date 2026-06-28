@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_nika_cats/static/css/main.c11d2fdf.css",
+    "main.js": "/react_nika_cats/static/js/main.c772170f.js",
+    "static/media/logo.svg": "/react_nika_cats/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react_nika_cats/index.html",
+    "main.c11d2fdf.css.map": "/react_nika_cats/static/css/main.c11d2fdf.css.map",
+    "main.c772170f.js.map": "/react_nika_cats/static/js/main.c772170f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c11d2fdf.css",
+    "static/js/main.c772170f.js"
+  ]
+}
